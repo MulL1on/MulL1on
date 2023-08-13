@@ -32,6 +32,6 @@ Welcome to my Github page! I am MulL1on and I am currently studying Software Eng
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
 </p>
 
-[![![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MulL1on&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![MulL1on's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MulL1on&theme=github-compact)
 
 
