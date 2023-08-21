@@ -12,7 +12,7 @@ Welcome to my Github page! I am MulL1on and I am currently studying Software Eng
 - Cloud Native
 #### :computer:Programming languages and tools :computer: : 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=MulL1on&show_icons=true&hide_border=true&theme=dark" />
+	<img width="50%" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MulL1on&show_icons=true&hide_border=true&theme=dark" />
  
 <img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
